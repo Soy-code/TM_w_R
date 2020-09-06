@@ -1,1 +1,1 @@
-# TM_w_R
+# Text mining with R 
